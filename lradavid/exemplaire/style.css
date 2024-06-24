@@ -11,13 +11,22 @@ body, html {
     background-image: url('../../src/assets/paysage.png');
     background-size: cover;
     background-position: center;
+	z-index: -1;
+}
+.bottom-right-image {
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+	width: 50%;
+	height: auto;
+	z-index: -1;
 }
 .content {
     position: absolute;
     bottom: 10%;
     left: 10%;
     right: 10%;
-    text-align: left;
+	text-align: left;
 }
 .title {
     font-size: 3em;
