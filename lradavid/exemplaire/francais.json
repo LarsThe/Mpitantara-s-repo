@@ -1,0 +1,130 @@
+{
+	"quiz": [
+	  {
+		"title": "La période précoloniale (Avant la colonisation française)",
+		"questions": [
+		  {
+			"question": "Avant l'arrivée des Européens, quel était le royaume le plus puissant à Madagascar ?",
+			"options": [
+			  {"reponse_1": "Le Royaume Betsileo"},
+			  {"reponse_2": "Le Royaume Merina"},
+			  {"reponse_3": "Le Royaume Sakalava"},
+			  {"reponse_4": "Le Royaume Antandroy"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  },
+		  {
+			"question": "Quels Européens ont été les premiers à s'intéresser à Madagascar ?",
+			"options": [
+			  {"reponse_1": "Les Portugais (XVIe siècle)"},
+			  {"reponse_2": "Les Britanniques (XVIe siècle)"},
+			  {"reponse_3": "Les Français (XVIe siècle)"},
+			  {"reponse_4": "Tous les a), b) et c) (XVIe siècle)"},
+			  {"vrai_reponse": "reponse_4"}
+			]
+		  }
+		]
+	  },
+	  {
+		"title": "La colonisation française",
+		"questions": [
+		  {
+			"question": "Quelle année a débuté la première guerre franco-malgache ?",
+			"options": [
+			  {"reponse_1": "1880"},
+			  {"reponse_2": "1883"},
+			  {"reponse_3": "1885"},
+			  {"reponse_4": "1890"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  },
+		  {
+			"question": "Quelle reine malgache a été exilée par les Français après la seconde guerre franco-malgache ?",
+			"options": [
+			  {"reponse_1": "Ranavalona I"},
+			  {"reponse_2": "Ranavalona II"},
+			  {"reponse_3": "Ranavalona III"},
+			  {"reponse_4": "Ranavalona IV"},
+			  {"vrai_reponse": "reponse_3"}
+			]
+		  }
+		]
+	  },
+	  {
+		"title": "La résistance à la colonisation",
+		"questions": [
+		  {
+			"question": "Quelle année a eu lieu la révolte des Menalamba ?",
+			"options": [
+			  {"reponse_1": "1895"},
+			  {"reponse_2": "1904-1905"},
+			  {"reponse_3": "1917"},
+			  {"reponse_4": "1947"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  },
+		  {
+			"question": "Quel événement a déclenché la révolte de 1947 ?",
+			"options": [
+			  {"reponse_1": "L'arrivée des troupes coloniales françaises"},
+			  {"reponse_2": "L'imposition de nouveaux impôts par les autorités coloniales"},
+			  {"reponse_3": "L'arrestation des leaders nationalistes malgaches"},
+			  {"reponse_4": "Le déclenchement de la Seconde Guerre mondiale"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  }
+		]
+	  },
+	  {
+		"title": "La marche vers l'indépendance",
+		"questions": [
+		  {
+			"question": "En quelle année Madagascar est-il devenu un territoire d'outre-mer français ?",
+			"options": [
+			  {"reponse_1": "1946"},
+			  {"reponse_2": "1956"},
+			  {"reponse_3": "1958"},
+			  {"reponse_4": "1960"}
+			  {"vrai_reponse": "reponse_1"}
+			]
+		  },
+		  {
+			"question": "Quel est le nom du premier président de la République Malgache après l'indépendance ?",
+			"options": [
+			  {"reponse_1": "Philibert Tsiranana"},
+			  {"reponse_2": "Didier Ratsiraka"},
+			  {"reponse_3": "Gabriel Ramanantsoa"},
+			  {"reponse_4": "Andrianampoinimerina"},
+			  {"vrai_reponse": "reponse_1"}
+			]
+		  }
+		]
+	  },
+	  {
+		"title": "Les premières années de l'indépendance",
+		"questions": [
+		  {
+			"question": "Quel était le lien économique principal entre Madagascar et la France après l'indépendance ?",
+			"options": [
+			  {"reponse_1": "La zone franc"},
+			  {"reponse_2": "Les accords de coopération"},
+			  {"reponse_3": "L'aide économique et technique"},
+			  {"reponse_4": "Tous les a), b) et c)"},
+			  {"vrai_reponse": "reponse_1"}
+			]
+		  },
+		  {
+			"question": "Qu'est-ce qui a conduit à la démission du président Philibert Tsiranana en 1972 ?",
+			"options": [
+			  {"reponse_1": "Un coup d'état militaire"},
+			  {"reponse_2": "Des manifestations populaires"},
+			  {"reponse_3": "Une crise économique"},
+			  {"reponse_4": "Une invasion étrangère"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  }
+		]
+	  }
+	]
+  }
+  
