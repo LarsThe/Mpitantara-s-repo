@@ -1,0 +1,129 @@
+{
+	"quiz": [
+	  {
+		"title": "Ny vanim-potoana mialohan'ny fanjanahana (Talohan'ny fanjanahana frantsay)",
+		"questions": [
+		  {
+			"question": "Inona no fanjakana matanjaka indrindra teto Madagasikara talohan'ny fahatongavan'ny Eoropeana?",
+			"options": [
+			  {"reponse_1": "Ny Fanjakan'i Betsileo"},
+			  {"reponse_2": "Ny Fanjakan'i Merina"},
+			  {"reponse_3": "Ny Fanjakan'i Sakalava"},
+			  {"reponse_4": "Ny Fanjakan'i Antandroy"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  },
+		  {
+			"question": "Iza no Eoropeana voalohany nanomboka nifandray tamin'i Madagasikara?",
+			"options": [
+			  {"reponse_1": "Portogey (taonjato faha-16)"},
+			  {"reponse_2": "Britanika (taonjato faha-16)"},
+			  {"reponse_3": "Frantsay (taonjato faha-16)"},
+			  {"reponse_4": "Izy rehetra"},
+			  {"vrai_reponse": "reponse_4"}
+			]
+		  }
+		]
+	  },
+	  {
+		"title": "Ny fanjanahana frantsay",
+		"questions": [
+		  {
+			"question": "Tamin'ny taona inona no nanomboka ny ady voalohan'i Madagasikara sy Frantsa?",
+			"options": [
+			  {"reponse_1": "1880"},
+			  {"reponse_2": "1883"},
+			  {"reponse_3": "1885"},
+			  {"reponse_4": "1890"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  },
+		  {
+			"question": "Iza no mpanjakavavy malagasy nalefa sesitany tany Frantsa ny Frantsay taorian'ny ady faharoa frantsay-malagasy?",
+			"options": [
+			  {"reponse_1": "Ranavalona I"},
+			  {"reponse_2": "Ranavalona II"},
+			  {"reponse_3": "Ranavalona III"},
+			  {"reponse_4": "Ranavalona IV"},
+			  {"vrai_reponse": "reponse_3"}
+			]
+		  }
+		]
+	  },
+	  {
+		"title": "Ny fanoherana ny fanjanahana",
+		"questions": [
+		  {
+			"question": "Tamin'ny taona inona no nitranga ny fikomiana Menalamba?",
+			"options": [
+			  {"reponse_1": "1895"},
+			  {"reponse_2": "1904-1905"},
+			  {"reponse_3": "1917"},
+			  {"reponse_4": "1947"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  },
+		  {
+			"question": "Inona no nitarika ny fikomiana tamin'ny taona 1947?",
+			"options": [
+			  {"reponse_1": "Ny fahatongavan'ny miaramila frantsay"},
+			  {"reponse_2": "Ny fametrahana hetra vaovao nataon'ny manam-pahefana mpanjanaka"},
+			  {"reponse_3": "Ny fisamborana ireo mpitarika nasionalista malagasy"},
+			  {"reponse_4": "Ny fipoahana ny Ady Lehibe Faharoa"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  }
+		]
+	  },
+	  {
+		"title": "Ny lalana mankany amin'ny fahaleovantena",
+		"questions": [
+		  {
+			"question": "Tamin'ny taona inona no lasa faritany frantsay utomierse i Madagasikara?",
+			"options": [
+			  {"reponse_1": "1946"},
+			  {"reponse_2": "1956"},
+			  {"reponse_3": "1958"},
+			  {"reponse_4": "1960"},
+			  {"vrai_reponse": "reponse_1"}
+			]
+		  },
+		  {
+			"question": "Iza no filoham-pirenena voalohan'ny Repoblika Malagasy taorian'ny fahaleovantena?",
+			"options": [
+			  {"reponse_1": "Philibert Tsiranana"},
+			  {"reponse_2": "Didier Ratsiraka"},
+			  {"reponse_3": "Gabriel Ramanantsoa"},
+			  {"reponse_4": "Andrianampoinimerina"},
+			  {"vrai_reponse": "reponse_1"}
+			]
+		  }
+		]
+	  },
+	  {
+		"title": "Taona voalohan'ny fahaleovantena",
+		"questions": [
+		  {
+			"question": "Inona no fifandraisana ara-toekarena lehibe teo amin'i Madagasikara sy Frantsa taorian'ny fahaleovantena?",
+			"options": [
+			  {"reponse_1": "Faritra franc (Fifandraisana ara-toekarena)"},
+			  {"reponse_2": "Fifanarahana momba ny fiaraha-miasa"},
+			  {"reponse_3": "Fanampiana ara-toekarena sy ara-teknika"},
+			  {"reponse_4": "Ireo rehetra a), b) ary c)"},
+			  {"vrai_reponse": "reponse_4"}
+			]
+		  },
+		  {
+			"question": "Inona no nitarika ny famoahana ny filoha Philibert Tsiranana tamin'ny taona 1972?",
+			"options": [
+			  {"reponse_1": "Fanonganam-pitondrana ara-miaramila"},
+			  {"reponse_2": "Hetsika nataon'ny vahoaka (Hetsika 1972)"},
+			  {"reponse_3": "Krizy ara-toekarena"},
+			  {"reponse_4": "Fananiham-pirenena"},
+			  {"vrai_reponse": "reponse_2"}
+			]
+		  }
+		]
+	  }
+	]
+}
