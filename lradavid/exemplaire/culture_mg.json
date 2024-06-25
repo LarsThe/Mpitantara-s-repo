@@ -1,0 +1,83 @@
+{
+	"title": "Quiz Malagasy",
+	"questions": [
+	  {
+		"question": "Foko fahafiry be mponina lehibe indrindra i Betsimisaraka?",
+		"options": [
+		  {"reponse_1": "5"},
+		  {"reponse_2": "1"},
+		  {"reponse_3": "9"},
+		  {"reponse_4": "2"},
+		  {"vrai_reponse": "reponse_4"},
+		  {"tantara": "Ny Betsimisaraka no foko fahafiry be mponina lehibe indrindra eto Madagasikara. Betsimisaraka, izay midika hoe 'ireo tsy mifandrafy', dia manana tantara lavabe manomboka amin'ny fiarahana tsy an-kisaraka ho amin'ny fiaraha-monina milamina. Mandrafitra ny morontsiraka avaratra-atsinanana, ny Betsimisaraka dia manana fomban-drazana sy fomba fiaina mifandray akaiky amin'ny ranomasina sy ny fahazoana sakafo avy aminy. Amin'ny fotoana fihaonana lehibe toy ny fety ara-kolontsaina sy ny fanaovana fombafomba ara-pinoana,dia mifanome tànana sy miray hina foana izy ireo, mampiseho ny tena toetrany."}
+		]
+	  },
+	  {
+		"question": "Inon ny mampiavaka any vondrom-poko Merina?",
+		"options": [
+		  {"reponse_1": "Tononkalo"},
+		  {"reponse_2": "fiteny"},
+		  {"reponse_3": "sakafo"},
+		  {"reponse_4": "izy rehetra"},
+		  {"vrai_reponse": "reponse_4"},
+		  {"tantara": "Ny Merina no vondrom-poko lehibe indrindra eto Madagasikara, ary izy ireo dia manana kolontsaina miavaka amin'ny lafiny maro. Ny tononkalo, ny fiteny, ary ny sakafo dia samy manamarika ny maha-Merina. Ny Merina dia mpanjohy tononkalo, manao kabary mahafinaritra ary mampiasa ny teny malagasy amin’ny endriny faran'izay madio indrindra. Ny sakafo toy ny ravitoto sy ny vary amin'anana koa dia mampiavaka azy ireo. Misy koa ny kabary izay mampiavaka ny Merina, ary fantatra amin'ny fomba fiteny manetriketrika sy mahafinaritra izy ireo."}
+		]
+	  },
+	  {
+		"question": "Inona ary izany Ohhh: ilay boka mitangy seza !!",
+		"options": [
+		  {"reponse_1": "mofo"},
+		  {"reponse_2": "mananasy"},
+		  {"reponse_3": "olona"},
+		  {"reponse_4": "sakay"},
+		  {"vrai_reponse": "reponse_2"},
+		  {"tantara": "Ankamantatra malagasy izy entina hampivelatra ny fisainan'ireo kilonga."}
+		]
+	  },
+	  {
+		"question": "Iza @ireto no dihy atao rehefa amonjy lanonana naha fanokafana t@ andro fahampanjaka malagasy?",
+		"options": [
+		  {"reponse_1": "kadrila"},
+		  {"reponse_2": "afindrafindrao"},
+		  {"reponse_3": "velatanana"},
+		  {"reponse_4": "totorebika"},
+		  {"vrai_reponse": "reponse_1"},
+		  {"tantara": "Ny dihy Kadrila dia dihy nentin-drazana izay natao nandritra ny lanonana lehibe sy fanokafana tamin'ny andro fahampanjaka Malagasy. Ity dihy ity dia avy amin'ny fomba amam-panao eoropeana ary nampidirina teto Madagasikara tamin'ny andron'ny fanjanahantany. Nandritra ny lanonana, ny olona dia niakanjo tsara ary nanao dihy mirindra izay mampiseho fahakingana sy fifankatiavana eo amin'ny mpandihy. Ny Kadrila dia anisan'ny dihy nampisehoan'ny Malagasy ny fahaizany mandray sy mampifangaro kolontsaina samihafa."}
+		]
+	  },
+	  {
+		"question": "Manamarika andro inona ny 26 juin?",
+		"options": [
+		  {"reponse_1": "andro nahazoana ny fahaleovantena"},
+		  {"reponse_2": "andro ny asaramanitra"},
+		  {"reponse_3": "andro firavoravona"},
+		  {"reponse_4": "andro toy ny mahazatra"},
+		  {"vrai_reponse": "reponse_1"},
+		  {"tantara": "Ny 26 Jona no andro ankalazaina ny fahaleovantena teto Madagasikara. Tamin'ny taona 1960, tamin'ity andro ity, dia nahazo ny fahaleovantena tamin'ny Frantsa i Madagasikara. Isan-taona, ny Malagasy dia mankalaza izany amin'ny alalan'ny dihy, hira, sy kabary. Ny arabe dia feno olona manao dihy sy mitondra ny saina Malagasy. Ny ankizy sy ny olon-dehibe dia samy faly ary maneho ny hafaliany amin'ny fomba maro samihafa. Ny 26 Jona dia andro iray mampiseho ny firaisankina sy ny fitiavan-tanindrazana eto Madagasikara."}
+		]
+	  },
+	  {
+		"question": "Ny kabary eo @malagasy dia:",
+		"options": [
+		  {"reponse_1": "kanto"},
+		  {"reponse_2": "fomba mampanao"},
+		  {"reponse_3": "kolontsaina"},
+		  {"reponse_4": "izy rehetra"},
+		  {"vrai_reponse": "reponse_4"},
+		  {"tantara": "Ny kabary eo amin'ny Malagasy dia manana endrika maro: kanto, fomba mampanao, ary kolontsaina. Ny kabary dia manamarika fotoana manan-danja toy ny fampakaram-bady, lanonana, sy fombafomba ara-pivavahana. Ny mpikabary dia mampiseho fahaizana miteny, mandamina hevitra ary mampiasa fomba fiteny manetriketrika sy mahaliana. Amin'ny alalan'ny kabary dia voatahiry sy voarakitra ny tantara sy ny fomban-drazana Malagasy, ary ny taranaka fara mandimby dia mianatra sy manohy izany kolontsaina izany."}
+		]
+	  },
+	  {
+		"question": "Iza @ireto ny ahiady malagasy?",
+		"options": [
+		  {"reponse_1": "totohondry gasy"},
+		  {"reponse_2": "jaiko"},
+		  {"reponse_3": "diamanga"},
+		  {"reponse_4": "Salegy"},
+		  {"vrai_reponse": "reponse_3"},
+		  {"tantara": "Ny diamanga dia iray amin'ireo ahiady nentin-drazana eto Madagasikara. Ny diamanga dia fomban-drazana nisy hatramin'ny ela ary nampianarina tamin'ny taranaka nifandimby. Io dia fomba iray fampisehoana herim-po sy fahaizana mifampitady eo amin'ny lahy sy ny vavy. Tamin'ny andro taloha, ny diamanga dia nampiasaina ho fitaovana fampiofanana ho an'ny mpanao ady sy mpiady. Ankehitriny kosa, dia lasa fanatanjahantena sy fomba fampisehoana ny maha-izy azy ny kolontsaina Malagasy. Ny fifaninanana diamanga dia feno fitiavana sy fanajàna ary mampiseho ny hatsaran'ny fihavanana sy ny fifanomezan-tànana."}
+		]
+	  }
+	]
+  }
+  
