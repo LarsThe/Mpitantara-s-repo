@@ -2,7 +2,6 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import {paysage} from './assets/index.js'
-import Bonjours from './bonjours.jsx'
 import './App.css'
 
 
@@ -12,7 +11,7 @@ function App() {
   return (
     <>
       <div>
-         <Bonjours/>
+        <center><h1>Bonjour, notre prototype se trouve actuellement dans le dossier modèle.</h1></center>
       </div>
     </>
   )
