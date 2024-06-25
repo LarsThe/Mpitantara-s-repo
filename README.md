@@ -1,8 +1,11 @@
-# React + Vite
+Mpitantara
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Ce projet vise à apprendre au peuple Malagasy à connaître son histoire tout en s'amusant.
 
-Currently, two official plugins are available:
+## Statut du Projet
+Le projet n'est pas encore à son terme, mais notre prototype est déjà dans le dossier 'modèle'.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Utilisation
+Instructions pour utiliser le projet :
+npm run dev
