@@ -1,0 +1,83 @@
+{
+	"title": "Quiz Malagasy vf",
+	"questions": [
+	  {
+		"question": "Quel est le rang des Betsimisaraka parmi les groupes ethniques les plus importants à Madagascar en termes de population?",
+		"options": [
+		  {"reponse_1": "5"},
+		  {"reponse_2": "1"},
+		  {"reponse_3": "9"},
+		  {"reponse_4": "2"},
+		  {"vrai_reponse": "reponse_4"},
+		  {"tantara": " Les Betsimisaraka : Un peuple uni par l'histoire et la mer Les Betsimisaraka, dont le nom signifie 'ceux qui ne se séparent jamais', constituent le deuxième groupe ethnique en importance à Madagascar, après les Merina. Avec une population estimée à 1,5 million d'individus, soit environ 15% de la population totale du pays, ils occupent une place notable dans la riche diversité culturelle de l'île. Leur histoire remonte à plusieurs siècles, marquée par une forte cohésion sociale et une identité distincte. Ils se sont établis principalement le long de la côte est-nord de Madagascar, développant une relation profonde avec la mer et ses ressources. La pêche et l'agriculture ont joué un rôle central dans leur économie et leur mode de vie, façonnant leurs traditions et leur savoir-faire ancestral. Au-delà de leurs activités quotidiennes, les Betsimisaraka sont également connus pour leur attachement profond à leurs valeurs culturelles et spirituelles. Les fêtes et cérémonies religieuses rythment leur vie, offrant des occasions de se rassembler, de partager et de célébrer leur identité commune. Ces moments de communion renforcent les liens qui unissent les individus et les communautés, perpétuant un héritage précieux à travers les générations. En résumé, les Betsimisaraka incarnent un peuple uni par l'histoire, la mer et un sentiment d'appartenance partagé. Leur présence dynamique contribue à la richesse et à la diversité culturelle de Madagascar, faisant d'eux un élément essentiel du patrimoine national."}
+		]
+	  },
+	  {
+		"question": "Qu'est ce qui differenci le tribu Merina ?",
+		"options": [
+		  {"reponse_1": "Tononkalo"},
+		  {"reponse_2": "fiteny"},
+		  {"reponse_3": "sakafo"},
+		  {"reponse_4": "izy rehetra"},
+		  {"vrai_reponse": "reponse_4"},
+		  {"tantara": "Les Merina : Une identité culturelle riche et vibrante Au cœur de Madagascar, les Merina se distinguent comme le groupe ethnique le plus important de l'île. Leur culture, unique et fascinante, se manifeste à travers divers aspects de leur vie quotidienne, de la langue à la gastronomie, en passant par l'art oratoire. La maîtrise de la parole et la beauté de la langue Les Merina sont reconnus pour leur talent exceptionnel dans l'art du 'hainteny', la joute oratoire traditionnelle malgache. Leur éloquence et leur capacité à manier la langue avec virtuosité en font des orateurs hors pairs, capables de captiver leur auditoire par des discours captivants et des jeux de mots habiles. La langue malgasy, dans sa forme la plus pure et raffinée, est également au cœur de l'identité Merina. Ils en maîtrisent parfaitement les nuances et les subtilités, l'utilisant comme un outil d'expression privilégié pour transmettre leurs savoirs, leurs valeurs et leur vision du monde. Saveurs et traditions culinaires uniques La gastronomie Merina se distingue par ses plats savoureux et emblématiques, reflétant l'ingéniosité et les influences culinaires de ce peuple. Le 'ravitoto', un plat à base de feuilles de manioc hachées et de viande, et le 'vary amin'anana', un riz accompagné de légumes et de viande ou de poisson, font partie intégrante de leur héritage culinaire. Ces mets délicieux, souvent préparés lors des occasions spéciales, constituent des symboles forts de l'identité Merina et de leur savoir-faire ancestral. L'art du kabary : Une tradition orale riche d'enseignements Le 'kabar', discours solennel et codifié, est une pratique profondément ancrée dans la culture Merina. Ces discours, souvent accompagnés de musique et de chants, abordent des sujets variés, allant des récits historiques et des contes populaires aux louanges des ancêtres et aux conseils avisés pour les générations futures. La richesse du vocabulaire, les figures de style habiles et l'intonation expressive des orateurs Merina font du kabary une véritable œuvre d'art oratoire. Ces discours servent non seulement à transmettre des connaissances et des valeurs, mais également à renforcer les liens sociaux et à célébrer l'identité Merina dans toute sa splendeur. En conclusion, les Merina se distinguent par une culture riche et vibrante, façonnée par l'histoire, la langue, la gastronomie et les traditions orales. Leur identité unique constitue un élément précieux du patrimoine culturel malgache, contribuant à la diversité et à la beauté de ce pays fascinant. "}
+		]
+	  },
+	  {
+		"question": "Devine : ilay boka mitangy seza !!",
+		"options": [
+		  {"reponse_1": "mofo"},
+		  {"reponse_2": "mananasy"},
+		  {"reponse_3": "olona"},
+		  {"reponse_4": "sakay"},
+		  {"vrai_reponse": "reponse_2"},
+		  {"tantara": "Devinette et passe temps pour les jeunes enfants malagasy"}
+		]
+	  },
+	  {
+		"question": "Lequelles de ces danses pratique les malagasy lors de la ceremonie des 'lanonana' durant l'epoque royal?",
+		"options": [
+		  {"reponse_1": "kadrila"},
+		  {"reponse_2": "afindrafindrao"},
+		  {"reponse_3": "velatanana"},
+		  {"reponse_4": "totorebika"},
+		  {"vrai_reponse": "reponse_1"},
+		  {"tantara": "Au cœur des festivités et cérémonies officielles de la royauté malgache, le Kadrila se déploie comme une danse traditionnelle empreinte d'élégance et de raffinement. Ses origines remontent aux coutumes européennes, introduites à Madagascar durant l'ère coloniale.Lors de ces événements solennels, les participants se parent de leurs plus beaux atours et entament une valse gracieuse, symbolisant l'harmonie et l'entente cordiale entre les danseurs. Le Kadrila illustre parfaitement la capacité des Malgaches à intégrer et à adapter des influences extérieures à leur propre culture."}
+		]
+	  },
+	  {
+		"question": "Manamarika andro inona ny 26 juin?Que represente 26 juin pour les malagasy?",
+		"options": [
+		  {"reponse_1": "andro nahazoana ny fahaleovantena"},
+		  {"reponse_2": "andro ny asaramanitra"},
+		  {"reponse_3": "andro firavoravona"},
+		  {"reponse_4": "andro toy ny mahazatra"},
+		  {"vrai_reponse": "reponse_1"},
+		  {"tantara": "Chaque année, le 26 juin résonne d'une ferveur particulière à Madagascar, marquant l'anniversaire de l'indépendance du pays vis-à-vis de la France en 1960. Cette journée mémorable est une occasion pour le peuple malgache de se rassembler et de célébrer sa liberté retrouvée dans une symphonie de joie, de fierté et d'unité nationale."}
+		]
+	  },
+	  {
+		"question": "De quoi s'agit le <kabary> ?",
+		"options": [
+		  {"reponse_1": "kanto"},
+		  {"reponse_2": "fomba mampanao"},
+		  {"reponse_3": "kolontsaina"},
+		  {"reponse_4": "izy rehetra"},
+		  {"vrai_reponse": "reponse_4"},
+		  {"tantara": "Le kabary, art oratoire ancestral ancré dans la culture malgache, se décline sous une multitude de formes, chacune portant en elle une essence unique : l'esthétique, la persuasion et la transmission culturelle. Cette pratique traditionnelle trouve sa place dans les moments les plus significatifs de la vie des Malgases, des mariages aux cérémonies officielles en passant par les rites religieux."}
+		]
+	  },
+	  {
+		"question": "Iza @ireto ny ahiady malagasy? Lequelles de ces sports de combat est d'origine malagasy ?",
+		"options": [
+		  {"reponse_1": "totohondry gasy"},
+		  {"reponse_2": "jaiko"},
+		  {"reponse_3": "diamanga"},
+		  {"reponse_4": "Salegy"},
+		  {"vrai_reponse": "reponse_3"},
+		  {"tantara": "Le Diamanga est un art martial traditionnel malgache qui se distingue par sa beauté, sa force et sa profondeur culturelle. Cette pratique ancestrale, transmise de génération en génération, incarne une véritable philosophie de combat et de respect mutuel."}
+		]
+	  }
+	]
+  }
+  
