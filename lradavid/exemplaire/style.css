@@ -23,14 +23,12 @@ body, html {
 }
 .content {
     position: absolute;
-    bottom: 10%;
+	top: 50%;
     left: 10%;
-    right: 10%;
-	text-align: left;
 }
 .title {
     font-size: 3em;
-    font-weight: bold;
+	font-family: Serif;
 }
 .title span.red {
     color: red;
